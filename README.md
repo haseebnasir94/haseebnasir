@@ -1,6 +1,6 @@
 # Welcome to my GitHub Page!
 ## Haseeb Nasir
-![Profile Picture](Display Picture.jpeg)
+![Alt text](Display Picture.jpeg)
 
 **Affiliation:**
 
