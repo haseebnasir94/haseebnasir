@@ -27,7 +27,7 @@ Financial regulation, public policy, and digital assets
 **Work Experience:**
 
 
-&rarr; Formerly at the Securities and Exchange Commission of Pakistan (SECP), working on asset tokenization, government debt issuance, and regulatory frameworks for the securities market.
+&rarr; Formerly worked at the Securities and Exchange Commission of Pakistan (SECP), focusing on asset tokenization, government debt issuance, and regulatory frameworks for the securities market.
 
 
 &rarr; Oversaw multiple asset tokenization startups under SECP’s Regulatory Sandbox, supporting efforts to explore the potential of digital assets in Pakistan’s financial ecosystem.
